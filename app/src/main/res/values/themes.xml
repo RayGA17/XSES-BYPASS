@@ -1,4 +1,0 @@
-<resources>
-
-    <style name="Theme.BypassPackageCheck" parent="android:Theme.DeviceDefault.Light.NoActionBar" />
-</resources>
